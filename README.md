@@ -1,4 +1,4 @@
-# Startup #
+# Startup ¿VO o md?#
 
 ## ¿Qué es? ##
 
@@ -24,6 +24,8 @@ equipo de dos personas, sean dos desarrolladores junior, o un desarrollador
 junior y un maquetador junior, aunque la elección del equipo de desarrollo es
 abierta.
 
+Es decir, especificar los talentos que necesitas durante dichos 2 meses.
+
 2. Debe declararse el alcance del proyecto, acotado precisamente de forma que al
 término del sprint se cuente con un entregable listo para su empleo por el
 usuario final.
@@ -33,7 +35,7 @@ edad, género, estrato socioeconómico, nivel tecnológico, y otras métricas qu
 apliquen.
 
 4. Debe incluír una justificación que contemple los beneficios económicos,
-sociales, etc. que brindará el proyecto a Vinco Orbis y a la población objetivo.
+sociales, etc. que brindará el proyecto a Vinco Orbis  (o md) y a la población objetivo.
 
 5. Debe incluir un estudio de factibilidad técnica y económica, considerando un
 presupuesto de $60,000.00 para todos los gastos relacionados con el proyecto,
@@ -44,8 +46,14 @@ seis meses posteriores a la liberación.
 6. Debe presentarse un mockup o prototipo no funcional que refleje la totalidad
 de las características contempladas en el alcance.
 
+Entre más específico y digerido mejor. Si tienes una idea, no es suficiente. Dedes tener algo plasmado para definir tu producto final al terminar los 2 meses.
+
 Las propuestas pueden presentarse de forma individual o en equipos de máximo
 tres personas.
+
+¿Puede una persona participar en más de equipo? Opino que sí.
+¿Puede una persona o equipo presentar más de 1 proyecto? Opino que sí.
+Para segundas rondas ¿Puede presentar segunda parte de un proyecto ganador? Opino que sí.
 
 
 ### Selección de proyecto ###
@@ -71,6 +79,8 @@ El sprint será liderado por un integrante del equipo que propone el proyecto.
 Existirá un comité de evaluación al que deberán de presentarse avances cada dos
 semanas para verificar el cumplimiento del plan de trabajo y de los objetivos
 del proyecto.
+
+Los proyecto deberá llevarse en manoderecha.
 
 Son causales de descalificación de sprints futuros:
 
@@ -107,7 +117,7 @@ Si la solución planteada genera ganancias, se dividirán de la siguiente forma:
 + 15% para las personas que participaron en su desarrollo (mientras permanezcan
    en Vinco Orbis)
 + 20% se reintegrará a Vinco Orbis
-+ 25% para la persona que planteó el proyecto
++ 25% para la persona (o equipo) que planteó el proyecto
 + 40% restante se destinará al fondo de financiamiento de Startups
 
 El siguiente sprint se llevará a cabo al menos cuatro meses después del inicio
