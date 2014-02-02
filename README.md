@@ -42,7 +42,9 @@ hospedaje, licencias, mantenimiento, etc. durante el desarrollo y por al menos
 seis meses posteriores a la liberación.
 
 6. Debe presentarse un mockup o prototipo no funcional que refleje la totalidad
-de las características contempladas en el alcance.
+de las características contempladas en el alcance. Entre más específico y
+digerido, mejor. Tener una idea no es suficiente. Debe estar plasmada la
+definición de tu producto final.
 
 Las propuestas pueden presentarse de forma individual o en equipos de máximo
 tres personas.
@@ -90,8 +92,9 @@ desarrollo, como herramientas de mejora de la calidad:
 + Flujo de trabajo con Git
    + [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
 
-El uso de Git como herramienta de control de versiones y de GitHub como
-hospedaje es requerido.
+El uso de Git como herramienta de control de versiones, de GitHub como
+hospedaje del código, y de manoderecha para administrar el proyecto es
+**requerido**.
 
 ### Liberación y evaluación ###
 
@@ -107,9 +110,13 @@ Si la solución planteada genera ganancias, se dividirán de la siguiente forma:
 + 15% para las personas que participaron en su desarrollo (mientras permanezcan
    en Vinco Orbis)
 + 20% se reintegrará a Vinco Orbis
-+ 25% para la persona que planteó el proyecto
++ 25% para la persona o equipo que planteó el proyecto
 + 40% restante se destinará al fondo de financiamiento de Startups
 
 El siguiente sprint se llevará a cabo al menos cuatro meses después del inicio
 del anterior, o cuando exista el mínimo presupuesto disponible para iniciarlo,
 ya sea proveniente del fondo de financiamiento o de otras fuentes.
+
+Los proyectos ganadores desarrollados pueden presentar una segunda parte que
+complemente la primera si se determina que alcanzó los objetivos planteados.
+Dicha segunda fase será votada como las demás propuestas.
